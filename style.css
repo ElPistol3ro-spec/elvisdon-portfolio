@@ -1,0 +1,45 @@
+button {
+    background-color: blue;
+    border: black;
+    color: red;
+    padding: 15px 15px;
+    font-family:'Italic', sans-serif;
+    border-radius: 4px;
+}
+    .courses-offered{
+        background-color: blue;
+    }
+
+    /* id selector */
+    #course-list{
+        font-family: italic;
+    }
+    .box{
+        background-color: blue;
+        border: black;
+        color: red;
+        padding: 5px 25px 45px 15px;
+        /* border-width: 5px; */
+        border-style: dotted;
+        border-color: black; */
+        /* shorthand */
+        width: 200px;
+        height: 100px;
+        font-family:'Italic', sans-serif;
+        border-radius: 6px;
+        margin: 20px 16px 40px 30px;
+    }
+    .navlist ul{
+        display:flex;
+        gap: 20px;
+    }
+    
+
+
+.open-sans-uniquifier{
+    font-family: 'Open Sans', sans-serif;
+     .noto-sans-saurashtra-regular {
+  font-family: "Noto Sans Saurashtra", sans-serif;
+  font-weight: 400;
+  font-style: normal;}
+}
