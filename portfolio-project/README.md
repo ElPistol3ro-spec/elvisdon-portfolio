@@ -24,14 +24,14 @@ A single-page personal portfolio built with plain HTML, CSS, and JavaScript.
 
 1. Clone the repo:
    ```
-   git clone https://github.com/your-username/your-username-portfolio.git
+   git clone https://github.com/your-username/ElPistol3ro-spec-portfolio.git
    ```
 2. Open the folder:
    ```
-   cd your-username-portfolio
+   cd ElPistol3ro-spec-portfolio
    ```
 3. Open `index.html` in your browser. No build step or install needed.
 
 ## What I Learned
 
-I learned how to render page content from JavaScript data instead of typing it into the HTML, and how to ship a project from a local folder to a live GitHub Pages site.
+I learned how to render page content from JavaScript data instead of typing it into the HTML, and how to ship a project from a local folder to a live GitHub Page site.
